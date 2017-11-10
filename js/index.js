@@ -1,4 +1,4 @@
-let askNumber = Number(prompt('Type your number: '));
+let askNumber = parseInt(prompt('Type your number: '));
 
 /*document.write('i: ' + fibonacci(askNumber) + "\n");
 
